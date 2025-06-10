@@ -1,9 +1,7 @@
 ### Site Settings ###
-title: Atlas Astro
+title: Charlene Atlas
 description: >-
-  Hi, I'm Charlene Atlas. 
-  I bring an experience-driven approach to exploring astronomical data 
-  for scientific discovery and public outreach.
+  I create interactive data-driven experiences that bridge the gap between deep scientific insight and meaningful public engagement with space science.
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository: charleneatlas/charleneatlas.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme: yousinix/portfolYOU
