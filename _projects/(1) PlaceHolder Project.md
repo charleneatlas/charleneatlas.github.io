@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+name: Beacon
+tools: [Javascript, P5.js, Python]
+image: ../images/Project_Images/Beacon/Beacon_HeroImage.JPG
+description: Web experience highlighting exoplanet system diversity using sound and visual patterns.
 external_url: https://www.google.com
 ---
