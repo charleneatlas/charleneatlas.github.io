@@ -8,13 +8,15 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I've spent my career creating experiences for new technologies that drive R&D and garner investment and interest. Now I am pivoting my skills toward space science. To know about the universe is to know about ourselves. I am passionate about making experiences that connect with the hearts and minds of the public, and help the scientific community find new insights by interpreting data in new ways.
 
-<div class="row">
+You can learn more about my career up to this point by going to [charleneatlas.com](http://www.charleneatlas.com).
+
+<!--<div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
 {% include about/timeline.html %}
-</div>
+</div>-->
