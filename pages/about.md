@@ -20,3 +20,9 @@ You can learn more about my career up to this point by going to [charleneatlas.c
 <div class="row">
 {% include about/timeline.html %}
 </div>-->
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/charlene-atlas/30min', text: 'Schedule time with me!', color: '#007bff', textColor: '#ffffff' }); }</script>
+<!-- Calendly badge widget end -->
